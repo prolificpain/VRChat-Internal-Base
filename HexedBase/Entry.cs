@@ -4,6 +4,10 @@ using System;
 using System.Collections;
 using UnityEngine;
 
+
+
+
+
 namespace HexedBase
 {
     public class Entry : HexedCheat // Define the Main Class for the Loader
@@ -21,7 +25,7 @@ namespace HexedBase
             PatchManager.ApplyStorePatch();
 
             // Start a delayed function
-            CoroutineManager.RunCoroutine(PrintLateHello());
+            CoroutineManager.RunCoroutine(waitForQM());
         }
 
         public override void OnApplicationQuit()
@@ -50,12 +54,15 @@ namespace HexedBase
             // Function is not hooked, won't get called
         }
 
-        private static IEnumerator PrintLateHello()
+        private static IEnumerator waitForQM()
         {
-            // Example on calling a simple print after a 5 second delay
-            yield return new WaitForSeconds(5);
+            while (GameObject.Find("Canvas_QuickMenu(Clone)") == null) yield return null; // Trys to find the Qm, if the Find Return null, it will wait for the next frame and check
+            yield return null; // wait one more frame, this isn't needed, but shut up
 
-            Console.WriteLine("Hello from a delayed function!");
+            MakeMenu.MakeMainMenu();
+
+            yield break; // This stops the IEnum
         }
+
     }
 }

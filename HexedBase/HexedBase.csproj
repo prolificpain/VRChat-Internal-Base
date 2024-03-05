@@ -32,22 +32,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Dummy\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="CoreRuntime">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Runtime\CoreRuntime.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Runtime\CoreRuntime.dll</HintPath>
     </Reference>
     <Reference Include="IL2CppGen">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Runtime\IL2CppGen.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Runtime\IL2CppGen.dll</HintPath>
     </Reference>
     <Reference Include="Il2CppInterop.Runtime">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Runtime\Il2CppInterop.Runtime.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Runtime\Il2CppInterop.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Il2Cppmscorlib">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Dummy\Il2Cppmscorlib.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json.Minimal">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Runtime\Newtonsoft.Json.Minimal.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\Il2Cppmscorlib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -57,25 +54,270 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="UniTask.TextMeshPro">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UniTask.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.AndroidJNIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ClusterRendererModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Dummy\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.DSPGraphModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GIModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.GIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Dummy\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.LocalizationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.NVIDIAModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.NVIDIAModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ProfilerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PropertiesModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.PropertiesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.SubsystemsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.TLSModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsNativeModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UIElementsNativeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UmbraModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UNETModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UNETModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityCurlModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityCurlModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.VehiclesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.VirtualTexturingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.WindModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Core">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\VRC.UI.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Elements">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\VRC.UI.Elements.dll</HintPath>
+    </Reference>
+    <Reference Include="VRC.UI.Shared">
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\VRC.UI.Shared.dll</HintPath>
     </Reference>
     <Reference Include="VRCCore-Standalone">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Dummy\VRCCore-Standalone.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\VRCCore-Standalone.dll</HintPath>
     </Reference>
     <Reference Include="VRCEconomy">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Dummy\VRCEconomy.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\VRCEconomy.dll</HintPath>
     </Reference>
     <Reference Include="VRCSDKBase">
-      <HintPath>..\..\..\..\Desktop\HexedWare\Settings\UnityLoader\VRChat\Dummy\VRCSDKBase.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\Cheats\settings\UnityLoader\VRChat\Dummy\VRCSDKBase.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="API\Base.cs" />
+    <Compile Include="API\QM\Buttons\Groups\ButtonGroup.cs" />
+    <Compile Include="API\QM\Buttons\Groups\CollapsibleButtonGroup.cs" />
+    <Compile Include="API\QM\Buttons\Groups\DuoButtons.cs" />
+    <Compile Include="API\QM\Buttons\Groups\GrpButtons.cs" />
+    <Compile Include="API\QM\Buttons\Groups\GrpToggles.cs" />
+    <Compile Include="API\QM\Buttons\Groups\TriButtons.cs" />
+    <Compile Include="API\QM\Buttons\Lable.cs" />
+    <Compile Include="API\QM\Buttons\VRCButton.cs" />
+    <Compile Include="API\QM\Buttons\VRCToggle.cs" />
+    <Compile Include="API\QM\Controls\ButtonGrp.cs" />
+    <Compile Include="API\QM\Controls\ExtentedControl.cs" />
+    <Compile Include="API\QM\Controls\Lable.cs" />
+    <Compile Include="API\QM\Controls\Root.cs" />
+    <Compile Include="API\QM\Controls\ToggleControl.cs" />
+    <Compile Include="API\QM\Extras\QMUtils.cs" />
+    <Compile Include="API\QM\Tab.cs" />
+    <Compile Include="API\QM\VRCPage.cs" />
     <Compile Include="Entry.cs" />
     <Compile Include="KeybindManager.cs" />
+    <Compile Include="Menu\Menu.cs" />
+    <Compile Include="Menu\SubMenu.cs" />
     <Compile Include="PatchManager.cs" />
   </ItemGroup>
   <ItemGroup>
