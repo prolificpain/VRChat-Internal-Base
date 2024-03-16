@@ -7,6 +7,7 @@ namespace HexedBase
         private static bool isCameraZoomed = false;
         public static void Update()
         {
+            /*
             if (Input.GetKeyInt(KeyCode.LeftAlt) && !isCameraZoomed && !Input.GetKeyInt(KeyCode.Tab))
             {
                 isCameraZoomed = true;
@@ -17,6 +18,7 @@ namespace HexedBase
                 isCameraZoomed = false;
                 Camera.main.fieldOfView = 60;
             }
+            */
         }
     }
 }
